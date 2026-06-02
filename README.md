@@ -1,8 +1,8 @@
 # 📚 A3 — Estudo de Caso Aplicado
 
-> **Disciplina:** Estruturas de Dados e Análise de Algoritmos
-> **Instituição:** Centro Universitário de Belo Horizonte — UNIBH
-> **Semestre:** 2026/1 · Modalidade: Presencial – Prática (E2A)
+> **Disciplina:** Estruturas de Dados e Análise de Algoritmos  
+> **Instituição:** Centro Universitário de Belo Horizonte — UNIBH  
+> **Semestre:** 2026/1 · Modalidade: Presencial – Prática (E2A)  
 
 ---
 
