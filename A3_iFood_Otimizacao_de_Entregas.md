@@ -4,10 +4,10 @@
 
 **Centro Universitário de Belo Horizonte — UNIBH**
 
-**Unidade Curricular:** Estruturas de Dados e Análise de Algoritmos
-**Código:** 0006963
-**Modalidade:** Presencial – Prática (E2A)
-**Semestre:** 2026/1
+**Unidade Curricular:** Estruturas de Dados e Análise de Algoritmos  
+**Código:** 0006963  
+**Modalidade:** Presencial – Prática (E2A)  
+**Semestre:** 2026/1  
 
 **Tema:** iFood e Otimização de Entregas
 
