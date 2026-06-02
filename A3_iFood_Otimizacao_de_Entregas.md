@@ -17,8 +17,9 @@
 
 | Nome | RA |
 |---|---|
-| Sérgio Pinton Pavanelli | 123220202 |
-| Júlia Starling Negrini Fudoli | 124222027 |
+| Sérgio Pinton Pavanelli | 123220202 |  
+| Júlia Starling Negrini Fudoli | 124222027 |  
+| Lucas Guilherme Ávila Barreto | 1232021323 |  
 
 **Data de entrega:** 08/06/2026
 
