@@ -20,7 +20,8 @@ Como uma das maiores plataformas de *food delivery* do mundo resolve, em tempo r
 |---|---|
 | Sérgio Pinton Pavanelli | 123220202 |  
 | Júlia Starling Negrini Fudoli | 124222027 |  
-| Lucas Guilherme Ávila Barreto | 1232021323 |    
+| Lucas Guilherme Ávila Barreto | 1232021323 |  
+| André Luiz da Silva Junior | 1232020446 |     
 
 ---
 
