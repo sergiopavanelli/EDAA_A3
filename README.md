@@ -31,8 +31,7 @@ Como uma das maiores plataformas de *food delivery* do mundo resolve, em tempo r
 |---|---|
 | 📄 `A3_iFood_Otimizacao_de_Entregas.md` | Documento completo do trabalho |
 | 📋 `A3_20260601161026.pdf` | Enunciado original da atividade |
-
-> Os slides de apresentação serão adicionados separadamente.
+| 🖼️ `Apresentação iFood e Roteamento de Pedidos.pdf` | Slides da apresentação do grupo |
 
 ---
 
